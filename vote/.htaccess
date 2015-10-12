@@ -1,0 +1,2 @@
+RewriteCond %{QUERY_STRING} ^(\w+)=(\w+)$
+RewriteRule ^/pollme/vote /pollme/vote/%1/%2?

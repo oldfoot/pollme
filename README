@@ -1,0 +1,9 @@
+Interactive Pollme app
+
+This app provides you with basic functionality to host a poll that updates as people vote for it
+
+It can be viewed here for a demo: terencelegrange.com/pollme
+
+You need a PHP+mySQL+Apache stack. I recommend XAMPP.
+
+Unpack the files, and install the database. Then open the site_config.php and edit away. There are two sections - dev and prod.
